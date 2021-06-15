@@ -1,4 +1,4 @@
-# Neuroimaging-Tools
+# SDL_Neuroimaging-Tools
 
 ## Aims
 The aim of this project is to share a set of Matlab, Python, R scripts to facilitate neuroimaging data analyses and results display. 
