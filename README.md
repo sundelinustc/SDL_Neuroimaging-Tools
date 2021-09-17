@@ -11,8 +11,12 @@ The motivation of this project is that some excellent softwares for neuroimaging
 ## List of scripts
 ### To plot neuroimaging data on brain
 SDL_FreeSurfer_Display_demo.mlx (Matlab Live)
---- Display a series colorful surface plots 
+--- Display a series colorful surface plots.
 
 ### Machine Learning based on neuroimaging data
 SDL_ML_Pipeline_01.ipynb (Jupyter Notebook)
---- Classfy patients and controls based on resting-state functional connectivity
+--- Classfy patients and controls based on resting-state functional connectivity.
+
+### QC Neuroimages
+SDL_QC_pngs.ipynb (Jupyter Notebook)
+--- Use nilearn package to generate the snapshots (.png files) of target image(s) for the ease of review.
