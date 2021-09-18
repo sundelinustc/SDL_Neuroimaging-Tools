@@ -18,5 +18,5 @@ SDL_ML_Pipeline_01.ipynb (Jupyter Notebook)
 --- Classfy patients and controls based on resting-state functional connectivity.
 
 ### QC Neuroimages
-SDL_QC_pngs.ipynb (Jupyter Notebook)
+SDL_QC_pngs.ipynb (Jupyter Notebook) or SDL_QC_pngs.py (Python3, can be used in a remote cluster)
 --- Use nilearn package to generate the snapshots (.png files) of target image(s) for the ease of review.
